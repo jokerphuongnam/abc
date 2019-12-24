@@ -1,0 +1,5 @@
+<root>
+    <item name='android.text.InputFilter.LengthFilter'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">joker</string>
+    <string name="sign_in">Sign In</string>
+    <string name="j">J</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue,</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="new_user">New user</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot">Forgot</string>
+    <string name="please_enter_your_username">Please enter your username:</string>
+    <string name="next">Next</string>
+    <string name="please_enter_confirm_code">Please enter confirm code</string>
+    <string name="confirm_code">Confirm Code</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_create_new_password">Please create new password:</string>
+    <string name="change_password">Change Password</string>
+    <string name="username_">Username:</string>
+    <string name="to_create_a_new_username">To create a new username</string>
+    <string name="please_enter_the_information">Please enter the information</string>
+    <string name="username_has_8_to_16_word_only_contains_a_z_a_z_0_9">Username has 8 to 16 word, only contains a - z, A - z, 0 - 9</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gender">Gender</string>
+    <string name="password_has_8_to_16_word_only_contains_a_z_a_z_0_9">Password has 8 to 16 word, only contains a - z, A - z, 0 - 9</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="password_and_confirm_password_must_be_the_same">Password and confirm password must be the same</string>
+    <string name="i_agree_with_the_term_of_use">I agree with the term of use</string>
+    <string name="please_check_information_to_continus">Please check information to continus</string>
+    <string name="please_enter_confirm_code_to_continue">Please enter confirm code to continue</string>
+    <string name="test">Test</string>
+</resources>
