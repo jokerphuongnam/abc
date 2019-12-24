@@ -17,7 +17,8 @@ class MainActivity : AppCompatActivity() {
         doMainAdmin.layoutManager = LinearLayoutManager(this.applicationContext)
         doMainAdmin.adapter = InforAdapter(Data.list)
 
-        Toast.makeText(applicationContext,"hello master 3223", Toast.LENGTH_LONG).show();
+        Toast.makeText(applicationContext,"hello master 2", Toast.LENGTH_LONG).show();
+        dqwdq
     }
 
 
