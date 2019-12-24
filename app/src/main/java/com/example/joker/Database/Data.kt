@@ -2,6 +2,7 @@ package com.example.joker.Database
 
 import android.annotation.SuppressLint
 import android.content.SharedPreferences
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
 
@@ -14,6 +15,7 @@ class Data : iData{
 
         fun initialazed(activity: AppCompatActivity) {
             pref = activity.getSharedPreferences("com.teamtreehouse.colorsarefun.prefs", 0)
+
         }
 
         var list = ArrayList<DataList>()

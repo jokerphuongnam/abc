@@ -1,7 +1,9 @@
 package com.example.joker.MainSystem.AdminSystem
 
+import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.joker.Database.Data
 import com.example.joker.R
@@ -14,5 +16,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         doMainAdmin.layoutManager = LinearLayoutManager(this.applicationContext)
         doMainAdmin.adapter = InforAdapter(Data.list)
+
+        Toast.makeText(applicationContext,"hello", Toast.LENGTH_LONG).show();
     }
+
+
 }
