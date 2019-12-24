@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         doMainAdmin.adapter = InforAdapter(Data.list)
 
         Toast.makeText(applicationContext,"hello master 99", Toast.LENGTH_LONG).show();
-        dqwdq
+
     }
 
 
